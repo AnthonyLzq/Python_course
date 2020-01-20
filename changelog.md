@@ -11,3 +11,6 @@
 
 ## Version 1.0.3
 -   Added *class 3*.
+
+## Version 1.0.4
+-   Added *class 4*.
