@@ -1,5 +1,6 @@
 git config --global user.name "tu nombre"
 git config --global user.email "tu correo"
+opcional: git config --global core.editor nano
 
 git init
 
@@ -7,10 +8,23 @@ git add .
 git commit -m "mensaje"
 
 si es primera vez:
-    git add remote origin "url"
+    git remote add origin "url"
     git push -u origin master
 sino:
     git push
 
 Formas de corregir un commit:
     - git commit --amend
+
+¿Cómo clonar un repositorio?
+    git clone url -> genera una carpeta con el nombre respectivo (name).
+    cd "name"
+    git status
+    git commit
+    ...
+    git push
+    rm -rf "name"
+
+
+
+

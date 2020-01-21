@@ -14,3 +14,7 @@
 
 ## Version 1.0.4
 -   Added *class 4*.
+
+## Version 1.0.5
+-   Some updates in *class 4*.
+-   We have cover all the Python's collections.
