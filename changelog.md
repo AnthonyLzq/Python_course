@@ -18,3 +18,6 @@
 ## Version 1.0.5
 -   Some updates in *class 4*.
 -   We have cover all the Python's collections.
+
+## Version 1.0.6
+-   Added *class 6*.
