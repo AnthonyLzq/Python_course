@@ -6,7 +6,7 @@ print('Number from outside:', number)
 def greet(name, age):
     global number
     number += 2 # numero = numero + 2
-    print('Number from greet:', numero)
+    print('Number from greet:', number)
     # print(f'Hi {name}! You  are {age} years old!')
     return number
 

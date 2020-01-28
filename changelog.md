@@ -1,23 +1,35 @@
 # Python course
 
 ## Version 1.0.0
--   *readme.md*.
+
+-   _readme.md_.
 
 ## Version 1.0.1
--   Added *class 1*.
+
+-   Added _class 1_.
 
 ## Version 1.0.2
--   Added *class 2*.
+
+-   Added _class 2_.
 
 ## Version 1.0.3
--   Added *class 3*.
+
+-   Added _class 3_.
 
 ## Version 1.0.4
--   Added *class 4*.
+
+-   Added _class 4_.
 
 ## Version 1.0.5
--   Some updates in *class 4*.
+
+-   Some updates in _class 4_.
 -   We have cover all the Python's collections.
 
 ## Version 1.0.6
--   Added *class 6*.
+
+-   Added _class 6_.
+
+## Version 1.0.7
+
+-   Added _class 7_.
+-   We've begun with the project, it is located in **class_5** folder.
