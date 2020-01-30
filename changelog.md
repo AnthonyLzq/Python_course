@@ -33,3 +33,7 @@
 
 -   Added _class 7_.
 -   We've begun with the project, it is located in **class_5** folder.
+
+## Version 1.0.8
+-   Added _class 8_.
+-   We've modify the project, now it has a OOP paradigm.
