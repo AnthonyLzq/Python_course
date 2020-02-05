@@ -43,3 +43,5 @@
 -   Added _class 10_.
 -   The project now uses modules.
  
+## Version 1.0.10
+-   Formating class folders.
