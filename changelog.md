@@ -45,3 +45,6 @@
  
 ## Version 1.0.10
 -   Formating class folders.
+
+## Version 1.0.11
+-   Added _class 11_.
